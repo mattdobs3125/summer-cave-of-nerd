@@ -35,3 +35,9 @@
   width: fit-content;
 }
 
+.overline {
+  border-top: 2px solid blue;
+  display: inline-block;
+  width: fit-content;
+}
+
